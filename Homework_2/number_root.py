@@ -14,5 +14,5 @@ def number_root():
         print(sum_2)
 
 
-numbers = input('Enter a number: ')
+numbers = input('Enter a number:')
 number_root()

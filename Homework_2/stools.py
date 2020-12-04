@@ -9,4 +9,3 @@ def stools():
 
 height_p = input('Enter the height: ').split()
 stools()
-
