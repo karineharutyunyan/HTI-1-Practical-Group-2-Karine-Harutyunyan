@@ -8,3 +8,4 @@ def is_uppercase():
 
 word = input('Enter a word: ').split()
 is_uppercase()
+
